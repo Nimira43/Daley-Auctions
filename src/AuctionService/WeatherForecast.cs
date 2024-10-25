@@ -1,4 +1,4 @@
-namespace API;
+namespace AuctionService;
 
 public class WeatherForecast
 {
