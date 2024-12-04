@@ -2299,19 +2299,21 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\arimi\\Project-8\\JavaScript\\Neil-Cummings\\Car-Auction-Microservices-Next\\Daley-Auctions\\src\\AuctionService\\AuctionService.csproj",
+      "projectUniqueName": "C:\\Users\\arimi\\Project-8\\JavaScript\\Neil-Cummings\\Car-Auction-Microservices-Next\\Daley-Auctions\\src\\AuctionService\\AuctionService.csproj",
       "projectName": "AuctionService",
-      "projectPath": "c:\\Users\\arimi\\Project-8\\JavaScript\\Neil-Cummings\\Car-Auction-Microservices-Next\\Daley-Auctions\\src\\AuctionService\\AuctionService.csproj",
+      "projectPath": "C:\\Users\\arimi\\Project-8\\JavaScript\\Neil-Cummings\\Car-Auction-Microservices-Next\\Daley-Auctions\\src\\AuctionService\\AuctionService.csproj",
       "packagesPath": "C:\\Users\\arimi\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\arimi\\Project-8\\JavaScript\\Neil-Cummings\\Car-Auction-Microservices-Next\\Daley-Auctions\\src\\AuctionService\\obj\\",
+      "outputPath": "C:\\Users\\arimi\\Project-8\\JavaScript\\Neil-Cummings\\Car-Auction-Microservices-Next\\Daley-Auctions\\src\\AuctionService\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\arimi\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\arimi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
